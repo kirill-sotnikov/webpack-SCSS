@@ -1,4 +1,4 @@
-# Webpack сборщик с SCSS
+# Webpack с SCSS
 
 ## Как работает
 
