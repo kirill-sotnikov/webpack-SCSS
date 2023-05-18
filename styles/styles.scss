@@ -1,0 +1,26 @@
+$background-color: rgb(255, 255, 255);
+
+body {
+  background-color: $background-color;
+
+  p {
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+
+  .wrapper {
+    p {
+      color: rgb(48, 69, 154);
+      background-color: #fff;
+      font-size: 20px;
+    }
+    p.active {
+      color: rgb(255, 89, 0);
+    }
+  }
+
+  p {
+    color: #fff;
+    background-color: black;
+  }
+}
